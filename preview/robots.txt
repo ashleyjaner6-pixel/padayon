@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:///C:\Users\USER\OneDrive\Documents\Publii\sites\padayon\preview/sitemap.xml
